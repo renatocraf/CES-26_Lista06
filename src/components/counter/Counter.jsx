@@ -1,4 +1,4 @@
-import './Calc.css';
+import './Counter.css';
 import{zerar,numero,selectCount, igual, operador} from './counterSlice';
 import React,{Component, useState} from 'react';
 import {useSelector, useDispatch} from 'react-redux';
